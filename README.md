@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Miifff.za!
 
 **Building digital worlds, one line of code at a time.**
-Game Enthusiast 👾 | AI Engineer 🧠 | Back-End Developer ⚙️
+Software Engineer Stuent 🎓 | Game Enthusiast 👾 | AI Engineer 🧠 | Back-End Developer ⚙️
 
 ---
 
