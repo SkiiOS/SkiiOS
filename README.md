@@ -21,7 +21,7 @@ Lagi sibuk ngulik server sama back-end buat LLM Engine, sambil sesekali bikin ga
     <td width="40%" valign="top">
 
 ### 📈 Metrics
-![Miifffza's GitHub stats](https://github-readme-stats-ten-blush-12.vercel.app/api?username=Miifffza&show_icons=true&theme=tokyonight)
+![Miifffza's GitHub stats](https://github-readme-stats-ten-blush-12.vercel.app/api?username=SkiiOS&show_icons=true&theme=tokyonight)
 
     </td>
   </tr>
