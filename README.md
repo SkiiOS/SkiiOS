@@ -53,4 +53,4 @@ Lagi sibuk ngulik Server, Back-End, AI (LLM Model), sambil sesekali lanjutin pro
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SkiiOS)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SkiiOS@gmail.com)
 ---
-*“I don’t stop when I’m tired, I stop when the code works.” | Quantum physics enthusiast & coffee lover.*
+*“I don’t stop when I’m tired, I stop when the code works.” | Space, Quantum physics enthusiast & coffee lover.*
