@@ -14,7 +14,7 @@
   </td>
   <td>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SkiiOS" />
+ [![Miiff's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkiiOS)](https://github.com/anuraghazra/github-readme-stats)
   
   </td>
 </tr>
