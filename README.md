@@ -1,4 +1,4 @@
-<h1>hai kawan, ak savwicak 🍪</h1>
+<h1>hai Im Miifff.za</h1>
 <table border="0">
 <tr border="0">
   <td>
@@ -14,7 +14,7 @@
   </td>
   <td>
   
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=SkiiOS&api_domain=hackatime.hackclub.com&theme=codeSTACKr&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SkiiOS" />
   
   </td>
 </tr>
