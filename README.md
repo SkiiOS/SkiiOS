@@ -10,10 +10,10 @@ Game Enthusiast 👾 | AI Engineer 🧠 | Back-End Developer ⚙️
     <td width="60%" valign="top">
 
 ### 🟢 Current Status
-Lagi sibuk ngulik gimana caranya sistem back-end yang kuat bisa ketemu sama cerdasnya AI, sambil sesekali bikin game buat seru-seruan.
+Lagi sibuk ngulik server sama back-end buat LLM Engine, sambil sesekali bikin game buat seru-seruan.
 
-* 🧩 **Project Mini:** Developing a laser-mechanic puzzle game. It's all about mirrors and logic.
-* 🤖 **AI Stuff:** Deep diving into LLM & Vision Models. Bukan cuma pakai, tapi belajar strukturnya.
+* 🧭 **Game Project:** Currently building something cool for the Dungeons & Dragons universe. Crafting mechanics, lore, or maybe a new way to play
+* 🤖 **AI Stuff:** Deep diving into LLM & Vision Models. Bukan cuma pakai, tapi bikin Model.
 * ⚙️ **Back-End:** My playground for building scalable and solid architecture.
 * ✍️ **The Other Side:** Nulis novel *"Gema di Dalam Cerita"*—karena hidup bukan cuma soal syntax.
 
@@ -40,7 +40,7 @@ Lagi sibuk ngulik gimana caranya sistem back-end yang kuat bisa ketemu sama cerd
 ---
 
 ### 📫 Hit Me Up!
-[LinkedIn](https://linkedin.com/in/username-kamu) | [Instagram](https://instagram.com/username-kamu) | [Email](mailto:emailkamu@gmail.com)
+[LinkedIn](https://linkedin.com/in/miftakhul-rizq-hisyam-b475b03a5) | [Instagram](https://instagram.com/miifff.za) | [Email](mailto:miftakhhisyam@gmail.com)
 
 ---
 *GGMU! 🔴 | Quantum physics enthusiast & coffee lover.*
