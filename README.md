@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Miifff.za!
 
 **Building digital worlds, one line of code at a time.**
-
+-
 Software Engineer Stuent 🎓 | Game Enthusiast 👾 | AI Engineer 🧠 | Back-End Developer ⚙️
-
+-
 ---
 
 <table border="0">
@@ -11,10 +11,10 @@ Software Engineer Stuent 🎓 | Game Enthusiast 👾 | AI Engineer 🧠 | Back-E
     <td width="55%" valign="top">
 
 ### 🟢 Current Status
-Lagi sibuk ngulik gimana caranya sistem back-end yang kuat bisa ketemu sama cerdasnya AI, sambil sesekali eksperimen buat project game.
+Lagi sibuk ngulik Server, Back-End, AI (LLM Model), sambil sesekali lanjutin project game.
 
 * 🐉 **DnD Project:** Currently building something cool for the Dungeons & Dragons universe. Crafting mechanics, lore, and new tools!
-* 🤖 **AI Stuff:** Deep diving into LLM & Vision Models. Bukan cuma pakai, tapi belajar strukturnya.
+* 🤖 **AI Stuff:** Deep diving into LLM & Vision Models. Bukan cuma pakai, tapi bikin sendiri.
 * ⚙️ **Back-End:** My playground for building scalable and solid architecture.
 * ✍️ **The Other Side:** Nulis novel *"Gema di Dalam Cerita"*—karena hidup bukan cuma soal syntax.
 
