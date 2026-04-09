@@ -1,7 +1,48 @@
-## Hi there 👋
+<h1>hai kawan, ak savwicak 🍪</h1>
+<table border="0">
+<tr border="0">
+  <td>
+  
+  ## 💾 Save File Slot #1
+  
+  ```txt
+  👾 Game & application developer studentㅤㅤㅤ
+  🍃 Currently building apps using Flutter & Firebaseㅤㅤㅤ
+  🪣 Exporing games and cool websites :p
+  ```
+  ㅤㅤㅤㅤㅤㅤㅤ
+  </td>
+  <td>
+  
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=SkiiOS&api_domain=hackatime.hackclub.com&theme=codeSTACKr&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6"/>
+  
+  </td>
+</tr>
+</table>
+
+<h2>Tools and Languages</h3>
+<p>
+  <!-- Design Tools -->
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jitter-%238C4FFF.svg?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+<p> <img src="https://komarev.com/ghpvc/?username=savwicak&label=Profile%20views&color=0e75b6&style=flat" alt="savwicak" /> </p>
 
 <!--
-**SkiiOS/SkiiOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**savwicak/savwicak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
