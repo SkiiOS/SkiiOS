@@ -19,7 +19,7 @@ Lagi sibuk ngulik Server, Back-End, AI (LLM Model), sambil sesekali lanjutin pro
     </td>
     <td width="45%" valign="top">
 
-### 📈 Metrics
+###  Stats
 ![Miifffza's GitHub stats](https://github-readme-stats-ten-blush-12.vercel.app/api?username=SkiiOS&show_icons=true&theme=tokyonight)
 
 <br/>
