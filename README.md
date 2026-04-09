@@ -14,7 +14,7 @@
   </td>
   <td>
   
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SkiiOS&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-ten-blush-12.vercel.app/api?username=SkiiOS&show_icons=true&theme=tokyonight" />
   
   </td>
 </tr>
