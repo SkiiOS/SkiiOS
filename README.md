@@ -24,7 +24,7 @@ Lagi sibuk ngulik Server, Back-End, AI (LLM Model), sambil sesekali lanjutin pro
 
 <br/>
 
-![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Miifffza&theme=tokyonight&layout=compact&langs_count=6)
+![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SkiiOS&theme=tokyonight&layout=compact&langs_count=6)
 
     
   </tr>
