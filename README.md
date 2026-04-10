@@ -24,8 +24,7 @@ Lagi sibuk ngulik Server, Back-End, AI (LLM Model), sambil sesekali lanjutin pro
 
 <br/>
 
-![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SkiiOS&theme=tokyonight&layout=compact&langs_count=6)
-
+![Coding Stats](https://github-readme-stats-ten-blush-12.vercel.app/api/wakatime?username=SkiiOS&theme=tokyonight&layout=compact&langs_count=6)
     
   </tr>
 </table>
@@ -49,8 +48,8 @@ Lagi sibuk ngulik Server, Back-End, AI (LLM Model), sambil sesekali lanjutin pro
 ---
 
 ### 📫 Hit Me Up!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SkiiOS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miftakhul-rizq-hisyam-b475b0304)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SkiiOS)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SkiiOS@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miftakhhisyam@gmail.com)
 ---
 *“I don’t stop when I’m tired, I stop when the code works.” | Space, Quantum physics enthusiast & coffee lover.*
