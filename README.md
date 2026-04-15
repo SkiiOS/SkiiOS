@@ -24,7 +24,7 @@ Lagi sibuk ngulik Server, Back-End, AI (LLM Model), sambil sesekali lanjutin pro
 
 <br/>
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=32123&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=32123&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Coding+Stats&layout=compact&langs_count=8)
 
   </tr>
 </table>
