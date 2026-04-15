@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Miifff.za!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/>Hello, I'm Miifff.za!
 
 **Building digital worlds, one line of code at a time.**
 Software Engineer Stuent 🎓 | Game Enthusiast 👾 | AI Engineer 🧠 | Back-End Developer ⚙️
